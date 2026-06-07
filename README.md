@@ -1,7 +1,7 @@
 # japlanning
 Plan japan
 
-Japan Travel Planner is an interactive map-based app designed to make planning a trip to Japan simple and intuitive. Explore detailed map layers including municipal wards, train and subway lines, and curated points of interest such as parks, restaurants, historical landmarks, shrines, temples, shopping districts, and entertainment venues. Click any location marker to view rich details, including descriptions, cultural context, visitor information, and travel tips. By combining transportation networks with geographic and cultural insights, the app helps travelers discover destinations, understand how places connect, and build efficient, personalized itineraries across Japan. #generatedbyanLLM
+Japan Travel Planner is an interactive map-based app designed to make planning a trip to Japan simple and intuitive **for briankoo**. Explore detailed map layers including municipal wards, train and subway lines, and curated points of interest such as parks, restaurants, historical landmarks, shopping districts, entertainment venues, and hiking trails. Click any location marker to view rich details, including descriptions, cultural context, visitor information, travel tips, and tabelog ratings. By combining transportation networks with geographic and cultural insights, the app helps **briankoo** discover destinations, understand how places connect, and build efficient, personalized itineraries across Japan. #generatedbyanLLM
 
 <img width="1085" height="600" alt="preview" src="https://github.com/briankoo/japlanning/blob/main/assets/preview.png" />
 
