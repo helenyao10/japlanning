@@ -1,6 +1,9 @@
 # japlanning
 Plan japan
 
+<img width="1262" height="703" alt="preview" src="https://github.com/user-attachments/assets/6a7e7332-75b6-4ba0-91e7-a8eeca1af4c9" />
+
+
 To build the html file:
 
 For macOS
