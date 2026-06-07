@@ -3,6 +3,12 @@ Plan japan
 
 To build the html file:
 
+For macOS
+```python
+python3 map.py
+```
+
+For Windows
 ```python
 python map.py
 ```
@@ -57,7 +63,7 @@ pip3 install --upgrade pip
 
 Install packages
 ```bash
-python3 -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
